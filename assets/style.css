@@ -548,3 +548,7 @@ footer .nav-logo-sub  { color: rgba(255,255,255,.5); }
 @media (max-width: 640px) {
   .nav-cta-primary { display: none; }
 }
+
+@media (max-width: 640px) {
+  .nav-cta { margin-left: auto; }
+}
