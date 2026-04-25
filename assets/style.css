@@ -535,3 +535,7 @@ footer li a:hover { color: #fff; }
   .cycle-wrap { grid-template-columns: 1fr; }
   .cycle-diagram svg { max-width: 320px; }
 }
+
+/* Footer logo text override */
+footer .nav-logo-name { color: #fff; }
+footer .nav-logo-sub  { color: rgba(255,255,255,.5); }
