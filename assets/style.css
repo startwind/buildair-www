@@ -544,3 +544,7 @@ footer .nav-logo-sub  { color: rgba(255,255,255,.5); }
   .nav-cta .btn { padding: 6px 12px; font-size: .8rem; }
   .nav-cta .btn-lg { padding: 6px 12px; font-size: .8rem; }
 }
+
+@media (max-width: 640px) {
+  .nav-cta-primary { display: none; }
+}
