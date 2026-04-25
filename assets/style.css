@@ -539,3 +539,8 @@ footer li a:hover { color: #fff; }
 /* Footer logo text override */
 footer .nav-logo-name { color: #fff; }
 footer .nav-logo-sub  { color: rgba(255,255,255,.5); }
+
+@media (max-width: 640px) {
+  .nav-cta .btn { padding: 6px 12px; font-size: .8rem; }
+  .nav-cta .btn-lg { padding: 6px 12px; font-size: .8rem; }
+}
