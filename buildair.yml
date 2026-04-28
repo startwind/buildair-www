@@ -1,3 +1,5 @@
 subdomains:
   web:
     port: 80
+    custom_domains:                                                                                                                                                                                              
+      - www.buildair.cloud             
